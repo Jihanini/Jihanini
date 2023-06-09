@@ -2,9 +2,6 @@
 
 <h2>✨Hello, I'm Jihan✨</h2>
 안녕하세요 풀스택 개발자를 꿈꾸고 있는 박지한입니다<br />
-"You can do anything you set your mind to"<br />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjaehha&show_icons=true&theme=radical)
 
 <h2>🖥️About Me🖥️</h2>
 <br />
